@@ -1,0 +1,15 @@
+{
+  "name": "cludinaryupload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.28.1",
+    "dotenv": "^16.0.0"
+  }
+}
